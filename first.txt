@@ -1,3 +1,10 @@
-llla
+<<<<<<< Updated upstream
+kdsfkjdjfjsdd;lfjdslkfjsdlllla
 jnsnjnjs
 kikssi
+=======
+Hi
+how u doin
+ghaxahs
+boy
+>>>>>>> Stashed changes
